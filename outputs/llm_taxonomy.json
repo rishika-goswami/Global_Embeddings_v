@@ -1,0 +1,42 @@
+[
+  {
+    "id": "refund_delay",
+    "description": "Issues related to delays in processing refunds."
+  },
+  {
+    "id": "ticket_booking",
+    "description": "Complaints regarding the ticket booking process and related issues."
+  },
+  {
+    "id": "train_cleanliness",
+    "description": "Concerns about the cleanliness of trains and related facilities."
+  },
+  {
+    "id": "staff_misbehavior",
+    "description": "Reports of inappropriate or unprofessional behavior by staff."
+  },
+  {
+    "id": "train_delay",
+    "description": "Complaints about delays in train schedules and punctuality."
+  },
+  {
+    "id": "platform_infrastructure",
+    "description": "Issues related to the condition and facilities of train platforms."
+  },
+  {
+    "id": "payment_issue",
+    "description": "Problems related to payment processing and confirmation."
+  },
+  {
+    "id": "service_quality",
+    "description": "General complaints about the quality of service provided."
+  },
+  {
+    "id": "staff_training",
+    "description": "Concerns regarding the training and preparedness of staff."
+  },
+  {
+    "id": "train_schedule",
+    "description": "Issues related to the accuracy and reliability of train schedules."
+  }
+]

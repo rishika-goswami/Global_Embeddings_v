@@ -1,0 +1,7 @@
+method,embedding,k,noise_pct,silhouette,davies_bouldin
+ymeans2,tfidf,15,0.0,0.0817,4.4621
+ymeans2,sbert,15,0.0,0.2245,2.2207
+dbscan,tfidf,13,16.39,-0.0296,2.0813
+dbscan,sbert,21,6.51,-0.1973,1.3787
+agg,tfidf,4,0.0,0.0158,0.9859
+agg,sbert,11,0.0,0.0983,0.8055

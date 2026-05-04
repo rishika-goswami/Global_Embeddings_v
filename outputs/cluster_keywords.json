@@ -1,0 +1,761 @@
+{
+  "ymeans2/tfidf": {
+    "0": [
+      "bahut kharab",
+      "kharab",
+      "bahut",
+      "station",
+      "safai",
+      "safai bahut",
+      "platform",
+      "station safai"
+    ],
+    "1": [
+      "behavior",
+      "staff behavior",
+      "staff",
+      "behavior bahut",
+      "behavior theek",
+      "theek nahi",
+      "theek",
+      "nahi"
+    ],
+    "2": [
+      "safai",
+      "safai nahi",
+      "ganda",
+      "bahut ganda",
+      "platform",
+      "nahi bahut",
+      "bahut",
+      "platform safai"
+    ],
+    "3": [
+      "refund nahi",
+      "refund",
+      "nahi mila",
+      "mila",
+      "nahi",
+      "ticket",
+      "cancel",
+      "ticket refund"
+    ],
+    "4": [
+      "payment",
+      "payment nahi",
+      "ticket",
+      "nahi",
+      "book",
+      "ticket book",
+      "ticket payment",
+      "book payment"
+    ],
+    "5": [
+      "train",
+      "bahut",
+      "nahi",
+      "nahi train",
+      "late",
+      "platform",
+      "dikkat",
+      "delay"
+    ],
+    "6": [
+      "paisa",
+      "ticket",
+      "paisa nahi",
+      "ticket paisa",
+      "nahi",
+      "mila",
+      "nahi mila",
+      "wapas"
+    ],
+    "7": [
+      "time",
+      "train time",
+      "time nahi",
+      "train",
+      "nahi",
+      "bahut",
+      "time schedule",
+      "late"
+    ],
+    "8": [
+      "staff",
+      "training",
+      "nahi",
+      "rude",
+      "staff training",
+      "train staff",
+      "railway staff",
+      "bahut"
+    ],
+    "9": [
+      "confirmation",
+      "confirmation nahi",
+      "payment confirmation",
+      "payment",
+      "nahi mila",
+      "mila",
+      "nahi",
+      "ticket payment"
+    ],
+    "10": [
+      "timing",
+      "train timing",
+      "train",
+      "timing bahut",
+      "late",
+      "timing sahi",
+      "bahut",
+      "nahi"
+    ],
+    "11": [
+      "facilities",
+      "station facilities",
+      "facilities bahut",
+      "station",
+      "facilities nahi",
+      "kharab",
+      "bahut",
+      "bahut kharab"
+    ],
+    "12": [
+      "train schedule",
+      "schedule",
+      "train",
+      "schedule bahut",
+      "bahut",
+      "nahi",
+      "nahi train",
+      "badal"
+    ],
+    "13": [
+      "baar",
+      "baar baar",
+      "train",
+      "train baar",
+      "nahi baar",
+      "baar late",
+      "baar change",
+      "late"
+    ],
+    "14": [
+      "station",
+      "railway station",
+      "bahut",
+      "railway",
+      "building",
+      "station building",
+      "purani",
+      "station bahut"
+    ]
+  },
+  "ymeans2/sbert": {
+    "0": [
+      "ticket",
+      "payment",
+      "payment nahi",
+      "ticket payment",
+      "nahi",
+      "book",
+      "ticket book",
+      "nahi ticket"
+    ],
+    "1": [
+      "train",
+      "nahi",
+      "bahut",
+      "nahi train",
+      "time nahi",
+      "time",
+      "train time",
+      "late"
+    ],
+    "2": [
+      "staff",
+      "train staff",
+      "railway staff",
+      "railway",
+      "behavior",
+      "train",
+      "training",
+      "nahi"
+    ],
+    "3": [
+      "platform",
+      "bahut",
+      "platform bahut",
+      "safai",
+      "safai nahi",
+      "kharab",
+      "safety",
+      "bahut kharab"
+    ],
+    "4": [
+      "refund",
+      "refund nahi",
+      "nahi mila",
+      "mila",
+      "nahi",
+      "nahi refund",
+      "refund process",
+      "process"
+    ],
+    "5": [
+      "payment",
+      "confirmation",
+      "confirmation nahi",
+      "nahi",
+      "payment confirmation",
+      "nahi mila",
+      "mila",
+      "payment nahi"
+    ],
+    "6": [
+      "station",
+      "bahut",
+      "washroom",
+      "toilets",
+      "gande",
+      "kharab",
+      "station washroom",
+      "facilities"
+    ],
+    "7": [
+      "train",
+      "schedule",
+      "train schedule",
+      "timing",
+      "train timing",
+      "bahut",
+      "late",
+      "time"
+    ],
+    "8": [
+      "bahut",
+      "train",
+      "dikkat",
+      "bahut dikkat",
+      "station",
+      "railway",
+      "chahiye",
+      "nahi"
+    ],
+    "9": [
+      "refund",
+      "refund nahi",
+      "ticket",
+      "nahi mila",
+      "mila",
+      "cancel",
+      "ticket refund",
+      "ticket cancel"
+    ],
+    "10": [
+      "baar",
+      "baar baar",
+      "train",
+      "train baar",
+      "baar change",
+      "baar late",
+      "late",
+      "change"
+    ],
+    "11": [
+      "paisa",
+      "ticket",
+      "ticket paisa",
+      "paisa nahi",
+      "nahi",
+      "wapas",
+      "mila",
+      "nahi mila"
+    ],
+    "12": [
+      "safai",
+      "nahi",
+      "bahut",
+      "safai nahi",
+      "platform",
+      "station",
+      "nahi bahut",
+      "station safai"
+    ],
+    "13": [
+      "station",
+      "railway station",
+      "railway",
+      "bahut",
+      "kharab",
+      "facilities",
+      "infrastructure",
+      "bahut kharab"
+    ],
+    "14": [
+      "staff",
+      "training",
+      "behavior",
+      "nahi",
+      "staff behavior",
+      "staff training",
+      "zarurat",
+      "bahut"
+    ]
+  },
+  "dbscan/tfidf": {
+    "0": [
+      "nahi",
+      "bahut",
+      "train",
+      "station",
+      "staff",
+      "ticket",
+      "payment",
+      "baar"
+    ],
+    "1": [
+      "train seats",
+      "seats",
+      "train",
+      "dikkat",
+      "nahi",
+      "booking",
+      "confirm nahi",
+      "confirm"
+    ],
+    "2": [
+      "bahut garmi",
+      "garmi",
+      "kaam nahi",
+      "kaam",
+      "train",
+      "nahi bahut",
+      "train nahi",
+      "bahut"
+    ],
+    "3": [
+      "platforms bahut",
+      "platforms",
+      "bahut",
+      "kharab",
+      "bahut kharab",
+      "zaroorat",
+      "sakti",
+      "samasya bahut"
+    ],
+    "4": [
+      "samadhan chahiye",
+      "samadhan",
+      "chahiye",
+      "payment issue",
+      "issue",
+      "train der",
+      "clarity",
+      "charge"
+    ],
+    "5": [
+      "tracks",
+      "railway tracks",
+      "railway",
+      "kharab",
+      "halat",
+      "condition",
+      "bahut kharab",
+      "bahut"
+    ],
+    "6": [
+      "support nahi",
+      "support",
+      "nahi mila",
+      "mila",
+      "nahi",
+      "staff",
+      "nahi nahi",
+      "training"
+    ],
+    "7": [
+      "staff log",
+      "log",
+      "rude",
+      "bahut rude",
+      "staff",
+      "bahut",
+      "samjha",
+      "rude nahi"
+    ],
+    "8": [
+      "bahut slow",
+      "slow",
+      "service bahut",
+      "service",
+      "bahut",
+      "train service",
+      "improvement nahi",
+      "improvement"
+    ],
+    "9": [
+      "iski jaanch",
+      "jaanch",
+      "iski",
+      "pehle",
+      "der",
+      "refund",
+      "nahi mila",
+      "mila"
+    ],
+    "10": [
+      "counter staff",
+      "ticket counter",
+      "counter",
+      "ticket",
+      "staff",
+      "staff nahi",
+      "accha nahi",
+      "accha"
+    ],
+    "11": [
+      "train services",
+      "services",
+      "train",
+      "sudhar",
+      "bahut pareshani",
+      "bahut",
+      "pareshani",
+      "samasya"
+    ],
+    "12": [
+      "achhi nahi",
+      "achhi",
+      "staff training",
+      "training",
+      "staff",
+      "train staff",
+      "service",
+      "unse"
+    ]
+  },
+  "dbscan/sbert": {
+    "0": [
+      "nahi",
+      "bahut",
+      "train",
+      "staff",
+      "station",
+      "ticket",
+      "payment",
+      "baar"
+    ],
+    "1": [
+      "nahi paisa",
+      "paisa",
+      "ticket",
+      "ticket payment",
+      "karu",
+      "payment nahi",
+      "karun",
+      "payment"
+    ],
+    "2": [
+      "bahut slow",
+      "slow",
+      "response",
+      "staff",
+      "time bahut",
+      "time",
+      "bahut",
+      "chahiye"
+    ],
+    "3": [
+      "confirm nahi",
+      "confirm",
+      "seat confirm",
+      "train seat",
+      "seat",
+      "nahi bahut",
+      "train seats",
+      "seats"
+    ],
+    "4": [
+      "train guard",
+      "guard",
+      "main bahut",
+      "train",
+      "khud",
+      "bahut pareshan",
+      "bura laga",
+      "pareshan"
+    ],
+    "5": [
+      "quality",
+      "train",
+      "khana",
+      "service",
+      "service nahi",
+      "nahi",
+      "bohot",
+      "bahut"
+    ],
+    "6": [
+      "train bahut",
+      "arrangement",
+      "bahut",
+      "nahi train",
+      "travel",
+      "train",
+      "trains",
+      "seat"
+    ],
+    "7": [
+      "nahi bahut",
+      "staff",
+      "bahut bekaar",
+      "achhe nahi",
+      "bekaar",
+      "bahut problem",
+      "experience",
+      "achhe"
+    ],
+    "8": [
+      "kharab logon",
+      "nahi train",
+      "train platform",
+      "nahi log",
+      "train",
+      "train bahut",
+      "bahut mushkil",
+      "logon"
+    ],
+    "9": [
+      "band",
+      "station lift",
+      "lift",
+      "station",
+      "dikkat jaldi",
+      "mushkil",
+      "jaldi theek",
+      "jaldi"
+    ],
+    "10": [
+      "platform",
+      "dikkat",
+      "bahut dikkat",
+      "bahut",
+      "platform bahut"
+    ],
+    "11": [
+      "repair",
+      "repair zarurat",
+      "zarurat",
+      "bahut zaruri",
+      "nahi wajah",
+      "vyavastha",
+      "zaruri",
+      "bahut kharab"
+    ],
+    "12": [
+      "vyavhaar",
+      "bura vyavhaar",
+      "saath",
+      "action",
+      "saath staff",
+      "bura",
+      "staff",
+      "staff saath"
+    ],
+    "13": [
+      "complaint",
+      "ignore",
+      "staff",
+      "bahut galat",
+      "dhyaan",
+      "bura laga",
+      "ispar",
+      "laga"
+    ],
+    "14": [
+      "charge",
+      "ticket",
+      "bahut galat",
+      "amount",
+      "ticket book",
+      "book",
+      "check",
+      "galat"
+    ],
+    "15": [
+      "bahut kharab",
+      "aaj",
+      "kharab",
+      "condition",
+      "bahut",
+      "purani",
+      "zaroori",
+      "kaam"
+    ],
+    "16": [
+      "seating",
+      "station seating",
+      "seats",
+      "area",
+      "issue",
+      "check",
+      "train",
+      "railway station"
+    ],
+    "17": [
+      "payment process",
+      "process",
+      "delay",
+      "payment",
+      "delays",
+      "number xxxxxx",
+      "account number",
+      "number"
+    ],
+    "18": [
+      "condition bahut",
+      "condition",
+      "railway",
+      "bahut",
+      "bahut purana",
+      "bahut kharab",
+      "maintenance",
+      "purana"
+    ],
+    "19": [
+      "kafi",
+      "payment issue",
+      "din",
+      "issue",
+      "payment",
+      "mila payment",
+      "payment status",
+      "status"
+    ],
+    "20": [
+      "cancel",
+      "cancel paisa",
+      "paisa",
+      "paisa nahi",
+      "mila karun",
+      "nahi mila",
+      "mila",
+      "bahut samay"
+    ]
+  },
+  "agg/tfidf": {
+    "0": [
+      "nahi",
+      "bahut",
+      "train",
+      "staff",
+      "station",
+      "ticket",
+      "payment",
+      "baar"
+    ],
+    "1": [
+      "employees",
+      "aksar",
+      "apne",
+      "der",
+      "kaam",
+      "karte",
+      "samasya",
+      "train"
+    ],
+    "2": [
+      "isme",
+      "padega",
+      "abhi",
+      "late",
+      "train"
+    ],
+    "3": [
+      "jaati",
+      "bar",
+      "har",
+      "nahi sakte",
+      "ghante",
+      "der",
+      "sakte",
+      "train"
+    ]
+  },
+  "agg/sbert": {
+    "0": [
+      "nahi",
+      "bahut",
+      "train",
+      "staff",
+      "station",
+      "ticket",
+      "payment",
+      "baar"
+    ],
+    "1": [
+      "reservation",
+      "system",
+      "thoda",
+      "chahiye",
+      "bahut"
+    ],
+    "2": [
+      "aaye",
+      "check"
+    ],
+    "3": [
+      "action",
+      "platform"
+    ],
+    "4": [
+      "jaldi theek",
+      "main",
+      "jaldi",
+      "theek"
+    ],
+    "5": [
+      "achi nahi",
+      "achi",
+      "platform",
+      "dikkat",
+      "nahi"
+    ],
+    "6": [
+      "chahiye bahut",
+      "bahut zaroori",
+      "zaroori",
+      "chahiye",
+      "station",
+      "bahut"
+    ],
+    "7": [
+      "unacceptable"
+    ],
+    "8": [
+      "quality",
+      "dhyan dein",
+      "dein",
+      "customer service",
+      "customer",
+      "bekar",
+      "service",
+      "dhyan"
+    ],
+    "9": [
+      "samjhana",
+      "guard",
+      "padega",
+      "bahut rude",
+      "rude",
+      "bahut"
+    ],
+    "10": [
+      "bahut samasya",
+      "samasya",
+      "platform",
+      "bahut"
+    ]
+  }
+}
